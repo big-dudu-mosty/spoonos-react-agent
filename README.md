@@ -13,7 +13,7 @@
 
 ## 演示视频
 
-https://github.com/user-attachments/assets/demo.mov
+[https://github.com/user-attachments/assets/demo.mov](https://www.youtube.com/watch?v=cXtbaYIkb9I)
 
 > 注：上传到 GitHub 后，视频链接会自动更新。
 
